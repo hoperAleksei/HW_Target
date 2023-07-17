@@ -1,3 +1,0 @@
-/home/aleksei/Projects/HW_Target/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/aleksei/Projects/HW_Target/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/aleksei/Projects/HW_Target/cmake-build-debug/CMakeFiles/HW_Target.dir
